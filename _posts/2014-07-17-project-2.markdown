@@ -1,15 +1,15 @@
 ---
-title: Escape
-subtitle: Website Design
+title: "Lead Funnel & Conversion Optimization"
+subtitle: "CRM Analytics & Workflow Improvement"
 layout: default
 modal-id: 2
 date: 2014-07-17
 img: escape.png
 thumbnail: escape-thumbnail.png
-alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
-description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
-
+alt: "Lead funnel and conversion analysis"
+project-date: "Professional Experience"
+client: "Healthcare Sales and Patient Acquisition"
+category: "CRM Analytics, Funnel Reporting, Process Automation"
+description: >-
+  Redesigned lead-management workflows to improve follow-up consistency, pipeline visibility, and sales accountability. I established clear pipeline stages, daily reporting expectations, inactivity rules, reassignment standards, and performance measures for leads, consultations, and scheduled procedures. The new structure helped leadership identify stalled opportunities earlier, reduce neglected leads, and manage conversion performance more consistently.
 ---
