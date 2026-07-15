@@ -1,15 +1,15 @@
 ---
-title: Dreams
-subtitle: Website Design
+title: "Multi-Site Performance Dashboard"
+subtitle: "Healthcare Analytics & Executive Reporting"
 layout: default
 modal-id: 1
 date: 2014-07-18
 img: dreams.png
 thumbnail: dreams-thumbnail.png
-alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
-description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
-
+alt: "Multi-site healthcare performance dashboard"
+project-date: "Professional Experience"
+client: "Multi-Site Healthcare Operations"
+category: "Tableau, Excel, CRM Reporting, KPI Design"
+description: >-
+  Built a consolidated performance reporting approach to give leadership clearer visibility into leads, consultations, procedures, conversion rates, revenue, capacity, and location-level performance. I translated operational data from multiple sources into practical KPIs and recurring reports that helped identify performance gaps, guide staffing and growth decisions, and support expansion from approximately three procedures per week to more than twelve procedures per day.
 ---
