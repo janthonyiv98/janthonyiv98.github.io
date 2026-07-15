@@ -1,25 +1,50 @@
-  <footer>
-        <div class="container">
-            <div class="row">
-                <div class="col-md-4">
-                    <span class="copyright">Copyright &copy; {{ site.title }} {{ 'now' | date: "%Y" }}</span>
-                </div>
-                <div class="col-md-4">
-                    <ul class="list-inline social-buttons">
-                        {% for network in site.social %}
-                        <li><a href="{{ network.url }}"><i class="fa fa-{{ network.title }}"></i></a>
-                        </li>
-                        {% endfor %}
-                    </ul>
-                </div>
-                <div class="col-md-4">
-                    <ul class="list-inline quicklinks">
-                        <li><a href="#">Privacy Policy</a>
-                        </li>
-                        <li><a href="#">Terms of Use</a>
-                        </li>
-                    </ul>
-                </div>
-            </div>
-        </div>
-    </footer>
+<footer>
+  <div class="container">
+    <div class="row">
+
+      <div class="col-md-4">
+        <span class="copyright">
+          Copyright &copy; Joseph Anthony IV {{ 'now' | date: "%Y" }}
+        </span>
+      </div>
+
+      <div class="col-md-4">
+        <ul class="list-inline social-buttons">
+
+          <li>
+            <a href="https://www.linkedin.com/in/jdaiv98"
+               target="_blank"
+               rel="noopener noreferrer"
+               aria-label="LinkedIn">
+              <i class="fa fa-linkedin"></i>
+            </a>
+          </li>
+
+          <li>
+            <a href="https://github.com/janthonyiv98"
+               target="_blank"
+               rel="noopener noreferrer"
+               aria-label="GitHub">
+              <i class="fa fa-github"></i>
+            </a>
+          </li>
+
+          <li>
+            <a href="mailto:josephdanthony1998@gmail.com"
+               aria-label="Email Joseph Anthony">
+              <i class="fa fa-envelope"></i>
+            </a>
+          </li>
+
+        </ul>
+      </div>
+
+      <div class="col-md-4">
+        <span class="copyright">
+          Charlotte, North Carolina
+        </span>
+      </div>
+
+    </div>
+  </div>
+</footer>
