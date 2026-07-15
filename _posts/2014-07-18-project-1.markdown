@@ -11,5 +11,5 @@ project-date: "Professional Experience"
 client: "Multi-Site Healthcare Operations"
 category: "Tableau, Excel, CRM Reporting, KPI Design"
 description: >-
-  Built a consolidated performance reporting approach to give leadership clearer visibility into leads, consultations, procedures, conversion rates, revenue, capacity, and location-level performance. I translated operational data from multiple sources into practical KPIs and recurring reports that helped identify performance gaps, guide staffing and growth decisions, and support expansion from approximately three procedures per week to more than twelve procedures per day.
+  Built a consolidated reporting approach that gave leadership clearer visibility into leads, consultations, procedures, conversion rates, revenue, capacity, and location-level performance. I translated operational data from multiple sources into practical KPIs and recurring reports that helped identify performance gaps, guide staffing and growth decisions, and support expansion from approximately three procedures per week to more than twelve procedures per day.
 ---
