@@ -9,7 +9,7 @@ thumbnail: escape-thumbnail.png
 alt: "Lead funnel and conversion analysis"
 project-date: "Professional Experience"
 client: "Healthcare Sales and Patient Acquisition"
-category: "CRM Analytics, Funnel Reporting, Process Automation"
+category: "CRM Analytics, Funnel Reporting, Process Improvement"
 description: >-
   Redesigned lead-management workflows to improve follow-up consistency, pipeline visibility, and sales accountability. I established clear pipeline stages, daily reporting expectations, inactivity rules, reassignment standards, and performance measures for leads, consultations, and scheduled procedures. The new structure helped leadership identify stalled opportunities earlier, reduce neglected leads, and manage conversion performance more consistently.
 ---
