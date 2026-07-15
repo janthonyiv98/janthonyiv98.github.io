@@ -1,15 +1,15 @@
 ---
-title: Treehouse
-subtitle: Website Design
+title: "Procurement & Vendor Strategy"
+subtitle: "Cost, Quality and Supply Optimization"
 layout: default
 modal-id: 4
 date: 2014-07-15
 img: treehouse.png
 thumbnail: treehouse-thumbnail.png
-alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
-description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
-
+alt: "Healthcare procurement and vendor analysis"
+project-date: "Professional Experience"
+client: "Healthcare Purchasing Operations"
+category: "Vendor Analysis, Pricing, Negotiation, Supply Planning"
+description: >-
+  Developed a structured approach for comparing vendors, product pricing, quality, availability, and acceptable alternatives. I supported purchasing decisions through pricing analysis, vendor communication, negotiation, and supply-risk monitoring. This gave leadership a clearer basis for selecting products and suppliers while balancing cost, clinical requirements, operational reliability, and patient experience.
 ---
