@@ -1,15 +1,15 @@
 ---
-title: Startup Framework
-subtitle: Website Design
+title: "New Clinic Launch & Operating Model"
+subtitle: "Healthcare Growth and Implementation"
 layout: default
 modal-id: 5
 date: 2014-07-14
 img: startup-framework.png
 thumbnail: startup-framework-thumbnail.png
-alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
-description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
-
+alt: "New healthcare clinic launch plan"
+project-date: "Professional Experience"
+client: "Multi-Site Clinic Expansion"
+category: "Implementation, Operations, Training, Growth Strategy"
+description: >-
+  Coordinated the operational components required to launch and support growing clinic locations, including staffing, training, scheduling, technology, CRM workflows, vendors, patient financing, marketing readiness, and day-to-day procedures. I helped turn an evolving business model into repeatable operating processes that could be applied across multiple locations while accounting for local staffing and operational needs.
 ---
